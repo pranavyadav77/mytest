@@ -1,0 +1,241 @@
+Question 55 of 91.
+What if you use parseInt( ) to convert a string containing decimal value?
+  Throws Error
+  If returns only the integer portion of the number
+  It returns the decimal values in string form
+  None of the listed option
+ Mark for follow up
+
+Question 56 of 91.
+What is the purpose of script loading?
+  Load Scripts programmatically
+  Load JavaScript files manually
+  Load JavaScript files programmatically
+  All of the above
+ Mark for follow up
+
+Question 57 of 91.
+What is the code for getting the current time?
+  now = new Date( );
+  var now = new Date( );
+  var now = Date( );
+  var now = new Date( current )
+ Mark for follow up
+
+Question 58 of 91.
+Which HTML tag is used to define what should be displayed in browsers that do not support ruby annotations?
+  < nav >
+  < rp >
+  < rt >
+  < ruby >
+ Mark for follow up
+
+Question 59 of 91.
+Which CSS property sets the stack order of an element?
+  z-index
+  position
+  overflow
+  clip
+ Mark for follow up
+
+Question 60 of 91.
+Which of the following is correct about the Hex Code format of CSS colors?
+  The first two digits(RR) represents a red value.
+  The second two digits(GG) represents a green value.
+  The last two digits are the blue(BB) value.
+  All of the above
+ Mark for follow up
+
+Question 61 of 91.
+When we write < img src="img.png" >, what "img.png" inside double quote implies?
+  element
+  attribute
+  value
+  operator
+ Mark for follow up
+
+Question 62 of 91.
+Which of the following unit represents the viewport’s width?
+  vh
+  vmin
+  vw
+  ch
+ Mark for follow up
+
+Question 63 of 91.
+Which of the following is not a value for font-style property
+  normal
+  italic
+  oblique
+  None of the above
+ Mark for follow up
+
+Question 64 of 91.
+Which of the following selector selects an element that has no children?
+  :empty
+  :nochild
+  :inheritance
+  :no-child
+ Mark for follow up
+
+Question 65 of 91.
+________ :none; attribute is used to remove the underline from the link
+   
+Mark for follow up
+
+Question 66 of 91.
+___ property can be used for controlling the position of the image in background.
+   
+Mark for follow up
+
+Question 67 of 91.
+Can we give more than one CSS class to a HTML element?
+   
+Mark for follow up
+
+Question 68 of 91.
+The ___________ attribute adjusts the space between the content of a frame and the top and bottom edges of that frame.
+   
+Mark for follow up
+
+Question 69 of 91.
+_______ requests do not remain in the browser history.
+   
+Mark for follow up
+
+Question 70 of 91.
+Which function is used to perform some action when the object is to be destroyed?
+  finalize( )
+  delete( )
+  main( )
+  destroy( )
+ Mark for follow up
+
+Question 71 of 91.
+Which methods are provided by the PrintStream class?
+  Read data to another stream
+  Write data to another stream
+  Read data to same stream
+  Write data to same stream
+ Mark for follow up
+
+Question 72 of 91.
+Method overriding is combination of inheritance and polymorphism?
+True
+ 	False
+ 	
+ Mark for follow up
+
+Question 73 of 91.
+Which of the following is not a Java features?
+  Dynamic
+  Architecture neutral
+  Use of pointers
+  Object-oriented
+ Mark for follow up
+
+Question 74 of 91.
+What does the expression float a = 35 / 0 return?
+  0
+  Not a number
+  Infinity
+  Run time exception
+ Mark for follow up
+
+Question 75 of 91.
+Evaluate the following Java expression, if x=3, y=5, and z=10: ++z + y - y + z + x++
+  20
+  23
+  24
+  25
+ Mark for follow up
+
+Question 76 of 91.
+Which event occurs when the user clicks on an HTML element?
+  onchange
+  onmouseover
+  onmouseclick
+  onclick
+ Mark for follow up
+
+Question 77 of 91.
+Which interface does java.util.Hashtable implement?
+  Java.util.Map
+  Java.util.List
+  Java.util.HashTable
+  Java.util.Collection
+ Mark for follow up
+
+Question 78 of 91.
+Which of the following is not the member of class?
+  Static function
+  Friend function
+  Constant function
+  Virtual function
+ Mark for follow up
+
+Question 79 of 91.
+Abstract class vs interface
+  A class may inherit only one abstract class but may inherit several interfaces.
+  An abstract class can provide complete and default code but an interface has no code
+  Both a and b
+  None of the above
+ Mark for follow up
+
+Question 80 of 91.
+The mechanism of binding data with the code that manipulates it is known as -----------------.
+   
+Mark for follow up
+
+Question 81 of 91.
+Languages like Simula, Smalltalk, C++ and Java adopt ____ approach in programming.
+   
+Mark for follow up
+
+Question 82 of 91.
+A method declared with ______ modifier cannot be overridden.
+   
+Mark for follow up
+
+Question 83 of 91.
+___ variables cannot be changed after initialization.
+   
+Mark for follow up
+
+Question 84 of 91.
+___ members are not accessible outside object scope.
+   
+Mark for follow up
+
+Question 85 of 91.
+A(n) __________ is a set of instructions that tells the basic strategy for solving a problem.
+   
+Mark for follow up
+
+Question 86 of 91.
+Single quotes are used with constants of the __________ type.
+   
+Mark for follow up
+
+Question 87 of 91.
+The value of 42 % 10 is __________.
+   
+Mark for follow up
+
+Question 88 of 91.
+An ! in an expression means __________.
+   
+Mark for follow up
+
+Question 89 of 91.
+The order in which a program performs actions is called the __________.
+   
+Mark for follow up
+
+Question 90 of 91.
+Write a Java program to find the sum of first 10 even natural numbers
+   
+Mark for follow up
+
+Question 91 of 91.
+Write a Java program to swap two numbers (Read the input from the console)
